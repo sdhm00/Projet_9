@@ -3,24 +3,28 @@
     src: local('Inter'), url('Fonts/Inter/static/Inter-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 @font-face {
     font-family: 'Spectral';
     src: local('Spectral'), local('Spectral-ExtraBold'), url('Fonts/Spectral/Spectral-ExtraBold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 @font-face {
     font-family: 'Spectral';
     src: local('Spectral'), local('Spectral-ExtraBoldItalic'), url('Fonts/Spectral/Spectral-ExtraBoldItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 @font-face {
     font-family: 'Spectral';
     src: local('Spectral'), local('Spectral-LightItalic'), url('Fonts/Spectral/Spectral-LightItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 body {
 	max-width: 1920px;
